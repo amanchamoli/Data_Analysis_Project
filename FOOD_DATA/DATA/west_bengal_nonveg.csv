@@ -1,0 +1,11 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+kosha mangsho,"mutton, onion, tomato, garlic, mustard oil, spices",non vegetarian,45,95,spicy,main course,west bengal,east
+ilish macher jhol,"hilsa fish, mustard, chili, turmeric, oil",non vegetarian,35,80,spicy,main course,west bengal,east
+chingri malai curry,"prawn, coconut milk, onion, ginger, garlic",non vegetarian,40,90,spicy,main course,west bengal,east
+dimer dalna,"egg, potato, onion, tomato, spices",non vegetarian,30,75,spicy,main course,west bengal,east
+muri ghonto,"fish head, rice, spices, mustard oil",non vegetarian,35,85,spicy,main course,west bengal,east
+prawn cutlet,"prawn, bread crumbs, chili, ginger, garlic",non vegetarian,30,70,spicy,starter,west bengal,east
+fish fry,"bhetki fish, chili, bread crumbs, lemon juice, oil",non vegetarian,30,65,spicy,starter,west bengal,east
+mutton biryani,"mutton, rice, potato, onion, ghee, spices",non vegetarian,45,95,spicy,main course,west bengal,east
+chicken curry,"chicken, onion, tomato, chili, mustard oil",non vegetarian,40,90,spicy,main course,west bengal,east
+egg roll,"egg, paratha, onion, chili, sauce, oil",non vegetarian,25,60,spicy,starter,west bengal,east

@@ -1,0 +1,21 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+butter chicken,"chicken, butter, tomato, cream, masala",non vegetarian,45,95,spicy,main course,punjab,north
+chicken tikka,"chicken, yogurt, chili, ginger, garlic",non vegetarian,40,85,spicy,starter,punjab,north
+tandoori chicken,"chicken, yogurt, chili powder, turmeric, oil",non vegetarian,45,90,spicy,starter,punjab,north
+fish amritsari,"fish, chili, gram flour, lemon, oil",non vegetarian,35,75,spicy,starter,punjab,north
+mutton curry,"mutton, onion, tomato, garlic, ginger, masala",non vegetarian,45,100,spicy,main course,punjab,north
+egg curry,"egg, tomato, onion, garlic, masala",non vegetarian,30,70,spicy,main course,punjab,north
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,90,spicy,main course,punjab,north
+mutton biryani,"mutton, rice, onion, tomato, curd, masala",non vegetarian,45,95,spicy,main course,punjab,north
+prawn curry,"prawn, onion, tomato, chili, garlic",non vegetarian,35,80,spicy,main course,punjab,north
+chicken keema,"chicken mince, onion, tomato, chili, masala",non vegetarian,40,85,spicy,main course,punjab,north
+seekh kabab,"minced mutton, onion, chili, ginger, garlic",non vegetarian,35,75,spicy,starter,punjab,north
+mutton seekh kabab,"mutton mince, chili, onion, masala, oil",non vegetarian,40,80,spicy,starter,punjab,north
+chicken pakora,"chicken, gram flour, chili, coriander, oil",non vegetarian,30,65,spicy,starter,punjab,north
+fish curry,"fish, onion, tomato, chili, mustard, oil",non vegetarian,35,80,spicy,main course,punjab,north
+mutton stew,"mutton, onion, tomato, garlic, pepper, clove",non vegetarian,45,95,spicy,main course,punjab,north
+chicken masala,"chicken, onion, tomato, chili, garam masala",non vegetarian,40,85,spicy,main course,punjab,north
+mutton keema masala,"mutton mince, chili, onion, tomato, oil",non vegetarian,40,90,spicy,main course,punjab,north
+egg bhurji,"egg, onion, chili, pepper, tomato, oil",non vegetarian,25,60,spicy,starter,punjab,north
+amritsari fish fry,"fish, gram flour, chili, turmeric, lemon",non vegetarian,35,75,spicy,starter,punjab,north
+chicken handi,"chicken, onion, tomato, cream, spices",non vegetarian,40,90,spicy,main course,punjab,north

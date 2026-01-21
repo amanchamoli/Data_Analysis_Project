@@ -1,0 +1,26 @@
+state,nonveg_count,veg_count,total,veg_percent,nonveg_percent,dominant_type
+andhra pradesh,10.0,10.0,20.0,50.0,50.0,equal
+assam,10.0,11.0,21.0,52.38095238095239,47.61904761904761,vegetarian
+bihar,0.0,3.0,3.0,100.0,0.0,vegetarian
+chhattisgarh,0.0,1.0,1.0,100.0,0.0,vegetarian
+delhi,0.0,1.0,1.0,100.0,0.0,vegetarian
+goa,1.0,2.0,3.0,66.66666666666666,33.33333333333333,vegetarian
+gujarat,7.0,37.0,44.0,84.0909090909091,15.909090909090908,vegetarian
+haryana,0.0,1.0,1.0,100.0,0.0,vegetarian
+jammu & kashmir,0.0,2.0,2.0,100.0,0.0,vegetarian
+karnataka,5.0,5.0,10.0,50.0,50.0,equal
+kerala,4.0,9.0,13.0,69.23076923076923,30.76923076923077,vegetarian
+madhya pradesh,0.0,2.0,2.0,100.0,0.0,vegetarian
+maharashtra,11.0,31.0,42.0,73.80952380952381,26.190476190476193,vegetarian
+manipur,1.0,0.0,1.0,0.0,100.0,non vegetarian
+nagaland,1.0,0.0,1.0,0.0,100.0,non vegetarian
+nct of delhi,1.0,0.0,1.0,0.0,100.0,non vegetarian
+odisha,3.0,7.0,10.0,70.0,30.0,vegetarian
+punjab,15.0,28.0,43.0,65.11627906976744,34.883720930232556,vegetarian
+rajasthan,2.0,7.0,9.0,77.77777777777779,22.22222222222222,vegetarian
+tamil nadu,31.0,25.0,56.0,44.642857142857146,55.35714285714286,non vegetarian
+telangana,1.0,4.0,5.0,80.0,20.0,vegetarian
+tripura,1.0,0.0,1.0,0.0,100.0,non vegetarian
+uttar pradesh,6.0,12.0,18.0,66.66666666666666,33.33333333333333,vegetarian
+uttarakhand,0.0,1.0,1.0,100.0,0.0,vegetarian
+west bengal,13.0,17.0,30.0,56.666666666666664,43.333333333333336,vegetarian

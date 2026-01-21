@@ -1,0 +1,56 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+chicken handi,"chicken, onion, tomato, spices, oil",non vegetarian,45,85,spicy,main course,gujarat,west
+fish fry,"fish, chili powder, turmeric, lemon juice, oil",non vegetarian,35,75,spicy,starter,gujarat,west
+egg curry,"egg, onion, tomato, masala, oil",non vegetarian,30,70,spicy,main course,gujarat,west
+mutton curry,"mutton, onion, tomato, garlic, ginger, masala",non vegetarian,40,90,spicy,main course,gujarat,west
+prawn masala,"prawn, onion, tomato, chili, curry leaves, masala",non vegetarian,35,80,spicy,main course,gujarat,west
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,90,spicy,main course,gujarat,west
+egg biryani,"egg, rice, onion, tomato, spices",non vegetarian,35,80,spicy,main course,gujarat,west
+mutton biryani,"mutton, rice, onion, masala, curd",non vegetarian,45,100,spicy,main course,gujarat,west
+crab masala,"crab, onion, tomato, chili, garlic, masala",non vegetarian,40,85,spicy,main course,gujarat,west
+chicken kabab,"chicken, yogurt, chili, ginger, garlic, oil",non vegetarian,35,75,spicy,starter,gujarat,west
+prawn fry,"prawn, chili, turmeric, garlic, oil",non vegetarian,30,65,spicy,starter,gujarat,west
+fish curry,"fish, tamarind, onion, tomato, mustard, spices",non vegetarian,35,85,spicy,main course,gujarat,west
+mutton kheema fry,"mutton mince, chili, onion, tomato, masala",non vegetarian,35,80,spicy,starter,gujarat,west
+chicken patiala,"chicken, cashew, onion, tomato, butter, cream",non vegetarian,40,90,spicy,main course,gujarat,west
+egg roast,"egg, onion, pepper, chili, curry leaves",non vegetarian,30,70,spicy,starter,gujarat,west
+chicken chettinad,"chicken, onion, tomato, pepper, curry leaves, spices, oil",non vegetarian,40,80,spicy,main course,tamil nadu,south
+mutton chettinad,"mutton, coconut, onion, garlic, ginger, masala, oil",non vegetarian,45,90,spicy,main course,tamil nadu,south
+nattu kozhi kuzhambu,"country chicken, onion, tomato, chili, garlic, oil",non vegetarian,35,80,spicy,main course,tamil nadu,south
+meen kuzhambu,"fish, tamarind, onion, tomato, mustard, spices",non vegetarian,30,70,spicy,main course,tamil nadu,south
+vanjaram fish fry,"seer fish, chili powder, turmeric, lemon juice, oil",non vegetarian,30,60,spicy,starter,tamil nadu,south
+era thokku,"prawn, onion, tomato, pepper, chili, curry leaves",non vegetarian,35,70,spicy,main course,tamil nadu,south
+crab masala,"crab, onion, tomato, ginger, garlic, chili powder, oil",non vegetarian,40,90,spicy,main course,tamil nadu,south
+kozhi varuval,"chicken, chili, ginger, garlic, onion, curry leaves",non vegetarian,35,75,spicy,starter,tamil nadu,south
+kari dosa,"dosa batter, mutton keema, chili, egg, oil",non vegetarian,30,65,spicy,main course,tamil nadu,south
+mutton sukka,"mutton, coconut, pepper, chili, curry leaves, oil",non vegetarian,40,85,spicy,main course,tamil nadu,south
+egg poriyal,"egg, onion, chili, pepper, curry leaves, oil",non vegetarian,30,60,spicy,starter,tamil nadu,south
+egg kothu parotta,"parotta, egg, onion, tomato, chili, oil",non vegetarian,35,70,spicy,main course,tamil nadu,south
+chicken kothu parotta,"parotta, chicken, onion, tomato, chili, masala",non vegetarian,40,80,spicy,main course,tamil nadu,south
+meen pollichathu,"fish, chili, onion, tomato, coconut, banana leaf",non vegetarian,35,70,spicy,main course,tamil nadu,south
+prawn biryani,"prawn, rice, onion, tomato, mint, garam masala",non vegetarian,45,90,spicy,main course,tamil nadu,south
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,85,spicy,main course,tamil nadu,south
+mutton biryani,"mutton, rice, onion, tomato, curd, spices",non vegetarian,45,95,spicy,main course,tamil nadu,south
+pepper chicken masala,"chicken, pepper, onion, garlic, ginger, tomato",non vegetarian,35,80,spicy,main course,tamil nadu,south
+mutton chukka,"mutton, onion, pepper, chili, curry leaves",non vegetarian,40,90,spicy,starter,tamil nadu,south
+chicken chukka,"chicken, onion, pepper, chili, curry leaves",non vegetarian,35,80,spicy,starter,tamil nadu,south
+crab rasam,"crab, tamarind, tomato, garlic, pepper, rasam powder",non vegetarian,30,65,spicy,soup,tamil nadu,south
+chicken rasam,"chicken, tamarind, tomato, garlic, chili, rasam powder",non vegetarian,30,65,spicy,soup,tamil nadu,south
+nethili fish fry,"anchovy fish, chili powder, turmeric, lemon juice, oil",non vegetarian,30,60,spicy,starter,tamil nadu,south
+fish curry,"fish, coconut, turmeric, chili, mustard, curry leaves",non vegetarian,35,70,spicy,main course,tamil nadu,south
+shrimp curry,"shrimp, onion, tomato, chili, garlic, coconut",non vegetarian,35,80,spicy,main course,tamil nadu,south
+mutton gravy,"mutton, onion, tomato, chili, spices, oil",non vegetarian,45,90,spicy,main course,tamil nadu,south
+quail roast,"quail meat, chili, ginger, garlic, onion, oil",non vegetarian,35,70,spicy,starter,tamil nadu,south
+chicken 65,"chicken, chili, curd, corn flour, ginger garlic paste, oil",non vegetarian,30,60,spicy,starter,tamil nadu,south
+prawn masala,"prawn, onion, tomato, chili, curry leaves, masala",non vegetarian,35,80,spicy,main course,tamil nadu,south
+madurai mutton kuzhambu,"mutton, onion, tamarind, chili, garlic, spices",non vegetarian,45,100,spicy,main course,tamil nadu,south
+chicken ghee roast,"chicken, ghee, chili, garlic, masala",non vegetarian,40,90,spicy,main course,karnataka,south
+mangalore fish curry,"fish, coconut, tamarind, chili, curry leaves",non vegetarian,35,80,spicy,main course,karnataka,south
+prawn biryani,"prawn, rice, onion, tomato, mint, masala",non vegetarian,40,85,spicy,main course,karnataka,south
+kori rotti,"chicken, coconut milk, chili, garlic, spices",non vegetarian,35,75,spicy,main course,karnataka,south
+chicken sukka,"chicken, coconut, chili, pepper, curry leaves",non vegetarian,35,80,spicy,main course,karnataka,south
+mutton curry,"mutton, onion, tomato, garlic, ginger, masala",non vegetarian,45,95,spicy,main course,karnataka,south
+egg curry,"egg, onion, tomato, chili, spices",non vegetarian,30,70,spicy,main course,karnataka,south
+fish fry,"fish, chili powder, turmeric, lemon juice, oil",non vegetarian,30,65,spicy,starter,karnataka,south
+prawn roast,"prawn, chili, garlic, tomato, masala, oil",non vegetarian,35,75,spicy,starter,karnataka,south
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,90,spicy,main course,karnataka,south

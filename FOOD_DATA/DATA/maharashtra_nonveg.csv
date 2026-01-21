@@ -1,0 +1,16 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+kolhapuri chicken,"chicken, chili, garlic, coconut, oil",non vegetarian,40,90,spicy,main course,maharashtra,west
+mutton rassa,"mutton, onion, tomato, chili, masala",non vegetarian,45,100,spicy,main course,maharashtra,west
+bombil fry,"bombil fish, chili, turmeric, lemon juice, oil",non vegetarian,35,70,spicy,starter,maharashtra,west
+prawn curry,"prawn, coconut, tamarind, curry leaves, spices",non vegetarian,35,85,spicy,main course,maharashtra,west
+fish curry,"fish, coconut, tamarind, chili, mustard seeds",non vegetarian,35,80,spicy,main course,maharashtra,west
+mutton biryani,"mutton, rice, onion, tomato, curd, masala",non vegetarian,40,95,spicy,main course,maharashtra,west
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,90,spicy,main course,maharashtra,west
+egg curry,"egg, onion, tomato, chili, masala",non vegetarian,30,70,spicy,main course,maharashtra,west
+prawn fry,"prawn, chili powder, turmeric, lemon juice, oil",non vegetarian,30,65,spicy,starter,maharashtra,west
+bombay duck curry,"fish, tamarind, chili, onion, tomato",non vegetarian,35,85,spicy,main course,maharashtra,west
+kolhapuri mutton,"mutton, chili, garlic, coconut, spices",non vegetarian,45,100,spicy,main course,maharashtra,west
+chicken sukka,"chicken, coconut, chili, pepper, curry leaves",non vegetarian,35,80,spicy,starter,maharashtra,west
+mutton keema pav,"minced mutton, chili, onion, tomato, bread",non vegetarian,40,90,spicy,main course,maharashtra,west
+tawa fish fry,"fish, chili, turmeric, garlic, lemon juice, oil",non vegetarian,35,70,spicy,starter,maharashtra,west
+kolambi masala,"prawn, onion, tomato, chili, coconut, oil",non vegetarian,35,85,spicy,main course,maharashtra,west

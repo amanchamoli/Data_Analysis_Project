@@ -1,0 +1,11 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+macha besara,"fish, mustard, chili, garlic, turmeric, oil",non vegetarian,35,85,spicy,main course,odisha,east
+mutton curry,"mutton, onion, tomato, chili, garlic, ginger",non vegetarian,40,90,spicy,main course,odisha,east
+prawn curry,"prawn, mustard, chili, garlic, tomato, onion",non vegetarian,35,80,spicy,main course,odisha,east
+crab masala,"crab, onion, tomato, chili, coconut, masala",non vegetarian,40,90,spicy,main course,odisha,east
+fish fry,"fish, chili powder, turmeric, lemon juice, oil",non vegetarian,30,70,spicy,starter,odisha,east
+mutton biryani,"mutton, rice, onion, tomato, curd, masala",non vegetarian,45,95,spicy,main course,odisha,east
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,90,spicy,main course,odisha,east
+egg curry,"egg, onion, tomato, chili, garlic, oil",non vegetarian,30,70,spicy,main course,odisha,east
+crab fry,"crab, chili, turmeric, curry leaves, oil",non vegetarian,35,75,spicy,starter,odisha,east
+chicken roast,"chicken, chili, ginger, garlic, onion, masala",non vegetarian,40,85,spicy,main course,odisha,east

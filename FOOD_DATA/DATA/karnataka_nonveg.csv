@@ -1,0 +1,11 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+chicken ghee roast,"chicken, ghee, chili, garlic, masala",non vegetarian,40,90,spicy,main course,karnataka,south
+mangalore fish curry,"fish, coconut, tamarind, chili, curry leaves",non vegetarian,35,80,spicy,main course,karnataka,south
+prawn biryani,"prawn, rice, onion, tomato, mint, masala",non vegetarian,40,85,spicy,main course,karnataka,south
+kori rotti,"chicken, coconut milk, chili, garlic, spices",non vegetarian,35,75,spicy,main course,karnataka,south
+chicken sukka,"chicken, coconut, chili, pepper, curry leaves",non vegetarian,35,80,spicy,main course,karnataka,south
+mutton curry,"mutton, onion, tomato, garlic, ginger, masala",non vegetarian,45,95,spicy,main course,karnataka,south
+egg curry,"egg, onion, tomato, chili, spices",non vegetarian,30,70,spicy,main course,karnataka,south
+fish fry,"fish, chili powder, turmeric, lemon juice, oil",non vegetarian,30,65,spicy,starter,karnataka,south
+prawn roast,"prawn, chili, garlic, tomato, masala, oil",non vegetarian,35,75,spicy,starter,karnataka,south
+chicken biryani,"chicken, rice, onion, tomato, curd, masala",non vegetarian,40,90,spicy,main course,karnataka,south

@@ -1,0 +1,7 @@
+name,ingredients,diet,prep_time,cook_time,flavour,dish_type,state,region
+kerala fish curry,"fish, coconut milk, tamarind, chili, curry leaves",non vegetarian,35,85,spicy,main course,kerala,south
+nadan chicken curry,"chicken, coconut, chili, onion, ginger, garlic",non vegetarian,40,90,spicy,main course,kerala,south
+prawn roast,"prawn, chili, pepper, curry leaves, coconut oil",non vegetarian,35,80,spicy,main course,kerala,south
+meen pollichathu,"fish, chili, onion, tomato, coconut, banana leaf",non vegetarian,30,75,spicy,main course,kerala,south
+mutton stew,"mutton, coconut milk, onion, pepper, cloves",non vegetarian,40,95,spicy,main course,kerala,south
+chicken biryani,"chicken, rice, onion, tomato, masala, ghee",non vegetarian,40,90,spicy,main course,kerala,south
