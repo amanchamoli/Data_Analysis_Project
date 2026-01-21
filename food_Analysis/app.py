@@ -7,7 +7,7 @@ import json
 
 st.set_page_config(page_title="Indian Cuisine Map", layout="wide")
 
-df = pd.read_csv("indian_food_final2.csv")
+df = pd.read_csv(r"D:\CampusX\Project-World\food_Analysis\Data\indian_food_final2.csv")
 
 df["time_category"] = pd.cut(
     df['total_time'],
@@ -31,7 +31,7 @@ def load_overall():
 def load_map():
     st.title("Indian Cuisine Distribution Map")
 
-    df_map = pd.read_csv("food_map.csv")
+    df_map = pd.read_csv("food_Analysis\Data\food_map.csv")
     df_map["state"] = df_map["state"].str.strip().str.title()
 
     replace_dict = {
