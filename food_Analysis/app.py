@@ -10,7 +10,7 @@ st.set_page_config(page_title="Indian Cuisine Map", layout="wide", page_icon="ðŸ
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("D:/CampusX/Project-World/food_Analysis/Data/indian_food_final2.csv")
+    df = pd.read_csv("Data\indian_food_final2.csv")
     df["time_category"] = pd.cut(
         df['total_time'],
         bins=[-1, 30, 60, float('inf')],
